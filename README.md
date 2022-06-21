@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijayakumars
 - 👀 I’m interested in coding, architecting applications
-- 🌱 I’m currently learning how to do things better than how I am now
+- 🌱 I’m currently learning how to do things better
 - 💞️ I’m looking to collaborate on Java , AWS, 
 - 📫 How to reach me vijayakumar.sk@gmail.com 
 
